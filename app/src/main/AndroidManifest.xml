@@ -29,4 +29,5 @@
         <activity android:name=".CoworkingActivity" />
         <activity android:name=".MainActivity" />
     </application>
+
 </manifest>
